@@ -38,7 +38,13 @@ pip install django
 <img width="956" alt="Output_Week5_Final" src="https://github.com/user-attachments/assets/d5d6c3a9-9b3c-4cde-ba01-2727acd9a4cd">
 
 
+**References:**
 
+For more detailed information you can refer this urls 
+
+https://www.djangoproject.com/start/
+
+https://docs.djangoproject.com/en/5.1/howto/deployment/
 
 
 
