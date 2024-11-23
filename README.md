@@ -9,6 +9,7 @@ ii)Django (Follow the installation steps below to install Django)
 
 **i)Clone the Repository:** First, clone the project repository and move into the project directory
 git clone https://github.com/SupriyaSurabhi/Software_Architecture_And_Design.git
+
 cd Software_Architecture_And_Design/Supriya_Project
 
 **ii Set Up a Virtual Environment**: To isolate project dependencies, create and activate a virtual environment:
